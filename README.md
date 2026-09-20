@@ -15,24 +15,13 @@ This repository gathers academic reports, theoretical studies, and empirical ana
 
 Each project is organized in its own folder, containing the original assignment and the submitted report.
 
-### Repository Structure
-
-```
-studies-and-reports-usp/
-│
-├── EP2-sorting-algorithms-analysis/
-│   ├── assignment.pdf       ← original assignment
-│   └── report.pdf           ← submitted report
-│
-└── ...                      ← future reports and studies
-```
-
 ### Projects
 
-| Folder | Course | Topic | Semester |
-|---|---|---|---|
-| `EP2-sorting-algorithms-analysis` | ACH2002 — Introduction to Algorithm Analysis | Empirical comparison of 7 sorting algorithms | 2024/2 |
-
+| Folder | Course | Topic |
+|---|---|---|
+| `EP2-sorting-algorithms-analysis` | ACH2002 — Introduction to Algorithm Analysis | Empirical comparison of 7 sorting algorithms in C |
+| `EP2-report-generator-refactoring` | ACH2003 — Object-Oriented Programming | Refactoring a Report Generator in Java using Strategy and Decorator design patterns |
+ 
 ---
 
 ## 🇧🇷 Português
@@ -57,10 +46,11 @@ studies-and-reports-usp/
 
 ### Projetos
 
-| Pasta | Disciplina | Tema | Semestre |
-|---|---|---|---|
-| `EP2-sorting-algorithms-analysis` | ACH2002 — Introdução à Análise de Algoritmos | Comparação empírica de 7 algoritmos de ordenação | 2024/2 |
-
+| Pasta | Disciplina | Tema |
+|---|---|---|
+| `EP2-sorting-algorithms-analysis` | ACH2002 — Introdução à Análise de Algoritmos | Comparação empírica de 7 algoritmos de ordenação em C |
+| `EP2-report-generator-refactoring` | ACH2003 — Computação Orientada a Objetos | Refatoração de um Gerador de Relatórios em Java com os padrões de projeto Strategy e Decorator |
+ 
 ---
 
 *Developed by Luiza de Jesus Lopes — USP nº 12822076*
